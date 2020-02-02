@@ -1,0 +1,90 @@
+.BadgeEdit__hero {
+    width: 100%;
+    padding: 2rem;
+    background: url("../../imgs/stars.svg"), #1b1b25;
+    background-repeat: repeat;
+    margin-bottom: 1rem;
+    color: #1b1b25;
+}
+.imgConf{
+    display: block;
+    margin:auto;
+}
+.BadgeForm{
+    border-color: rgb(255, 255, 255);
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-style: solid;
+    background-color: rgb(255, 255, 255);
+    border-radius: 6px;
+    position: absolute;
+    width: 80%;
+    margin: auto;
+}
+.title-form{
+    color:rgba(255, 255, 255);
+    display: block;
+    margin: auto;
+    padding-bottom: 10px;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.btn-submit{
+    display: block!important;
+    width: 100%;
+}
+.input-file{
+    border-color: rgb(39, 57, 218);
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-style: solid;
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+}
+.check-class{
+    width: 20px!important;
+}
+.line-rect{
+    border-bottom-style: solid;
+    border-bottom-color: #1b1b25;
+    width: 90%;
+    display: block;
+    margin:auto;
+    border-width: 1px;
+}
+.clase_badge{
+    align-items: center;
+    position: inherit!important;
+}
+.custom-file{
+    position: sticky!important;
+}
+/*
+.button-search{
+    border-bottom-left-radius: initial;
+    border-top-left-radius: inherit;
+
+}
+.input-search{
+    border-bottom-right-radius: initial;
+    border-top-right-radius: inherit;
+}
+.search-div{
+    width: 40%;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    justify-content: center;
+    margin:auto;
+}
+.border-lupa{
+    border-top-style: solid;
+    border-left-style: solid;
+    border-bottom-style: solid;
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+} */

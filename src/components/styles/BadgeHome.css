@@ -1,0 +1,42 @@
+.BadgeHome{
+    padding-top: 6rem;
+    background: url("../../imgs/stars.svg"), #1b1b25;
+    /* background: #1b1b25; */
+    background-repeat: repeat;
+    height: 100%;
+    width: 100%!important;
+    padding: 2rem0;
+    display: flex;
+}
+
+
+.platzi-title{
+    color:#cecee9!important;
+    /*font-family: system-ui; */
+    /* font-family: "Goudy Bookletter 1911", sans-serif; */
+    font-family:"Comic Sans MS", cursive, sans-serif, monospace;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.platzi-description{
+    color:#cecee9!important;
+    font-family:"Comic Sans MS", cursive, sans-serif, monospace;
+    font-weight: 100;
+    direction: ltr!important;
+}
+
+.img-background-astronaut{
+    transform:rotateY(180deg);
+    animation:  800ms latido infinite;
+}
+@keyframes latido{
+    0%{
+        transform:scale(1.01);
+    }
+    50%{
+        transform:scale(1);
+    }
+    100%{
+        transform:scale(1.01);
+    }
+}

@@ -1,0 +1,25 @@
+.MenuHeader{
+        width: 100%;
+        padding:0.5rem;
+        background-color: #1d565e;
+}
+.icon_pais{
+    width: 3rem;
+}
+
+.label-menu{
+    color: rgba(255, 255, 255);
+    border-left: rgba(255, 255, 255);
+    border-width: 2px;
+    /* border-style: solid; */
+    border-right-style: solid;
+    margin-right: 10px;
+    padding-right:10px;
+    
+}
+.label-especial{
+    color: rgba(255, 255, 255);
+    border-left: rgba(255, 255, 255);
+    margin-right: 10px;
+    padding-right:10px;
+}

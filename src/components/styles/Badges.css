@@ -1,0 +1,63 @@
+.Badges__hero {
+    width: 100%;
+    padding: 2rem;
+    background: url('../../imgs/stars.svg'), #1B1B25;
+    background-repeat: repeat;
+    margin-bottom: 1rem;
+  }
+  
+  .Badges__hero>.Badges__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .Badges__container {
+    width: 100%;
+    max-width: 580px;
+    margin: 0 auto;
+    padding: 01rem;
+  }
+  
+  .Badges_conf-logo {
+    margin-bottom: 2rem;
+  }
+  
+  .Badges__buttons {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 1rem;
+  }
+  
+  
+.imgConf{
+  display: block;
+  margin:auto;
+}
+.button-search{
+ /*  border-left-style: none; */
+  border-bottom-left-radius: initial;
+  border-top-left-radius: inherit;
+  
+}
+.input-search{
+  border-bottom-right-radius: initial;
+  border-top-right-radius: inherit;
+}
+.search-div{
+  width: 27%;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  justify-content: center;
+  /* display: block; */
+  margin:auto;
+}
+.border-lupa{
+  border-color: rgb(255, 255, 255);
+  border-top-style: solid;
+  border-left-style: solid;
+  border-bottom-style: solid;
+  background-color: rgb(255, 255, 255);
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
